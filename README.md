@@ -28,6 +28,8 @@ locally testing opsworks
    ```
    $ vagrant init ubuntu1404-opsworks
    ```
+   
+   Or reference to an example [Vagrantfile](https://github.com/nclouds/hackathon_opsworks/blob/master/templates/Vagrantfile)
 
 5. Download json file
 
